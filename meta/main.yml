@@ -1,0 +1,5 @@
+---
+
+dependencies:
+  - role: mafalb.package_repo/rpmfusion
+    package_repo_name: rpmfusion
